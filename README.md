@@ -75,3 +75,4 @@ return 0;
 
 
 ## RESULT
+Thus the given Vigenere Cipher has been executed successfully.
